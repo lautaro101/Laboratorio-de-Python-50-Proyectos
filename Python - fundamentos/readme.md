@@ -31,7 +31,7 @@ A medida que complete los proyectos, iré marcando mi progreso:
 - [ ] 04 - Cotizador de Materiales: Lógica condicional anidada y evaluación de múltiples casos (`elif`).
 - [ ] 05 - Adivina el Número v1: Introducción a la iteración condicional (`while`).
 - [ ] 06 - Generador de Secuencias: Automatización con bucles definidos (`for`, `range`).
-- [ ] 07 - Validador de Contraseñas: Combinación y anidación de ciclos con condicionales lógicos.
+- [ ] 07 - Validador de Caracteres: Combinación de ciclos (while) para forzar la longitud correcta de una entrada y condicionales lógicos para evaluar vocales.
 - [ ] 08 - Simulador de Cajero: Creación de menús interactivos de consola y ciclos infinitos con ruptura.
 - [ ] 09 - Contador de Vocales: Aislamiento de código algorítmico y uso de contadores.
 - [ ] 10 - Menú Interactivo Base: Organización del flujo principal del programa delegando tareas a funciones sin parámetros.
