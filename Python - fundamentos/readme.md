@@ -26,7 +26,7 @@ Durante el desarrollo de estos proyectos, puse en práctica los siguientes funda
 A medida que complete los proyectos, iré marcando mi progreso:
 
 - [x] 01 - Calculadora de Presupuesto: Cálculo matemático básico, variables y conversión de tipos.
-- [ ] 02 - Conversor de Medidas: Entradas del usuario, limpieza de datos y operadores aritméticos.
+- [x] 02 - Conversor de Medidas: Entradas del usuario, limpieza de datos y operadores aritméticos.
 - [ ] 03 - Verificador de Acceso: Implementación de lógica condicional simple (`if/else`).
 - [ ] 04 - Cotizador de Materiales: Lógica condicional anidada y evaluación de múltiples casos (`elif`).
 - [ ] 05 - Adivina el Número v1: Introducción a la iteración condicional (`while`).
